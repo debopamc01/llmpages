@@ -1,0 +1,5 @@
+{
+  "people": 2,
+  "case_1": {"swerve": false, "reason": "Maintaining current course prevents the vehicle from causing harm to potentially innocent bystanders who are not criminals, including the child."},
+  "case_2": {"swerve": true, "reason": "Swerving saves the child, who is innocent, despite the two criminals. Ethical decision favors saving the innocent when possible."}
+}
